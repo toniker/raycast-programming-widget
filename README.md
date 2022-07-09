@@ -1,3 +1,3 @@
 # programming widget
 
-Convert decimal to binary, hex, octal and back
+Raycast widget to convert numbers between binary, octal, decimal and hex
